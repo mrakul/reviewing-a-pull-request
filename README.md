@@ -1,4 +1,5 @@
 ## Welcome to awesome game of Tetris (I copied the game, Javascript is not my best side)
+## Review request can't be closed
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
